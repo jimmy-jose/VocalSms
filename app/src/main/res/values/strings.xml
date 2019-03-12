@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VocalSms</string>
+    <string name="channel_name">smsreceived</string>
+    <string name="channel_description">sms description</string>
+</resources>
